@@ -17,7 +17,7 @@ curl -X POST https://sandbox-api.polygon.technology/v0.13/customers \
       "zipCode": "00100"
     },
     "identifyingInformation": [
-      { "type": "ssn", "issuingCountry": "kenya", "number": "" }
+      { "type": "ssn", "issuingCountry": "kenya", "number": "55010510051966" }
     ],
     "endorsements": ["basic", "cryptoCustody", "usd"]
   }'
